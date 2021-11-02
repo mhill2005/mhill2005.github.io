@@ -1,7 +1,10 @@
 #profile-pic {
-  height: 100px
-  position: relative;
-  left: 200px;
+    height: 100px;
+    position: relative;
+    left: 83%;
+}
+header {
+    font-size:40px;
 }
 body {
   background-color: orange;
@@ -9,10 +12,11 @@ body {
 
 h1 {
  color: black;
+ font-size: 40px;
   
 }
 
 p {
   color: purple;
-  font-size: 40px;
+  font-size: 25px;
 }
